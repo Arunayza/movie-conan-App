@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListMovieConan" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="AppSaya" parent="Base.Theme.ListMovieConan" />
+</resources>
