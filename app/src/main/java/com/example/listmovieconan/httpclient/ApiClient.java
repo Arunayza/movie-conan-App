@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
 
-    public static final String BASE_URL = "https://arunations.online/api/";
+    public static final String BASE_URL = "https://api.arunations.store/api/";
     private static Retrofit retrofit = null;
 
     // Fungsi untuk mendapatkan instance Retrofit
